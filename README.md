@@ -1,0 +1,6 @@
+# otel_mongodb_atlas
+
+OpenTelemetry bridge for MongoDB Atlas Data API + Search.
+
+Part of the Dartastic Pro bridges family. See https://dartastic.io for the full
+integration catalog and license terms.
